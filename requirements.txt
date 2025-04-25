@@ -1,0 +1,7 @@
+ultralytics[export]
+opencv-python
+python-dotenv
+tensorflow
+ml-dtypes
+mediapipe
+picamera2
